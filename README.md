@@ -2,7 +2,13 @@
 - 👀 I’m interested in programming and collaberating with other developers to create amazing things...
 - 🌱 I’m currently learning python...
 - 💞️ I’m looking to collaborate on future projects...
-- 📫 How to reach me: instagram.com/programmingwithcybineer,   twitter.com/programcybineer,    twitch.tv/programmingwithcybineer  youtube.com/programmingwithcybineer...
+- 
+- 📫 How to reach me: 
+- instagram.com/programmingwithcybineer
+- twitter.com/programcybineer
+- twitch.tv/programmingwithcybineer
+- youtube.com/programmingwithcybineer
+- 
 - Dont forget to visit my website: www.programmingwithcybineer.com
 
 <!---
