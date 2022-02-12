@@ -4,11 +4,9 @@
 - 💞️ I’m looking to collaborate on future projects...
 - 
 - 📫 How to reach me: 
-- instagram.com/programmingwithcybineer
-- twitter.com/programcybineer
-- twitch.tv/programmingwithcybineer
-- youtube.com/programmingwithcybineer
-- 
+- https://linktr.ee/ProgrammingWithCybineer
+
+
 - Dont forget to visit my website: www.programmingwithcybineer.com
 
 <!---
