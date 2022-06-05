@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ProgrammingWithCybineer
 - 👀 I’m interested in programming and collaberating with other developers to create amazing things...
-- 🌱 I’m currently learning python and Big Data concepts.
-- 🌱 I'm always working on personal projects.
+- 💻 I’m currently learning python and Big Data concepts.
+- 💻 I'm always working on personal projects.
 - 💞️ I’m looking to collaborate on future projects...
 - 
 - 📫 How to reach me: 
