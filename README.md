@@ -7,8 +7,9 @@
 - 📫 How to reach me: 
 - https://linktr.ee/ProgrammingWithCybineer
 
+- Check out my portfolio website: www.cybineer.com
 
-- Dont forget to visit my website: www.programmingwithcybineer.com
+- Dont forget to visit my business website: www.programmingwithcybineer.com
 
 <!---
 Programmingwithcybineer/programmingwithcybineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
